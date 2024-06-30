@@ -1,7 +1,3 @@
-"""
-Don't change anything in this file. But you can inspect codes to have better understanding.
-"""
-
 
 def validateEncoding(data):
     # Only accept byte strings or ascii unicode values, otherwise
