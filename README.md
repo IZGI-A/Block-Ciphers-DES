@@ -1,1 +1,5 @@
-# Block-Ciphers-DES
+# Block Ciphers DES
+
+## License
+
+[MIT License](LICENSE)
